@@ -23,7 +23,7 @@ Map matching is the processing of recognizing the true driving route in the road
  
 # Dependency
 ***
-python 2.7(jupyter notebook,sublime text4)
+python 2.7(jupyter notebook,sublime text4)  
 1.pandas/geoPandas  
 2.numpy  
 3.shapely  
