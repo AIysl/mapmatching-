@@ -1,0 +1,5 @@
+https://www.microsoft.com/en-us/research/publication/hidden-markov-map-matching-noise-sparseness/
+
+Reference£º
+[1]P. Newson and J. Krumm, ¡°Hidden Markov Map Matching Through Noise and Sparseness,¡± 
+in Proceedings of the 17th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, New York, NY, USA, 2009, pp. 336¨C343.

@@ -1,0 +1,9 @@
+https://people.eng.unimelb.edu.au/henli/projects/map-matching/
+
+
+References£º
+[1]H. Li, L. Kulik, and K. Ramamohanarao, ¡°Spatio-temporal Trajectory Simplification for Inferring Travel Paths,¡±
+ in Proceedings of the 22Nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, New York, NY, USA, 2014, pp. 63¨C72.
+
+[2]H. Li, L. Kulik, and K. Ramamohanarao, ¡°Robust inferences of travel paths from GPS trajectories,¡± 
+International Journal of Geographical Information Science, vol. 29, no. 12, pp. 2194¨C2222, Dec. 2015.
