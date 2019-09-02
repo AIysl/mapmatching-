@@ -4,11 +4,9 @@ Map matching is the processing of recognizing the true driving route in the road
 **Author: Simon Scheider**    
 **Created: 23/02/2019**  
 
-
-
-
-
-I conclude four algothims for mapmatching as follow:
+# Main Contributions
+***
+I have exposed several common map matching algorithms (both py and inpy)
 
 1.Hidden Markov Map Matching Through Noise and Sparseness(HMMM)
 
